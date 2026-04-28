@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "malikmcfun.aternos.me:22468",
+    "ip": "malikmcfun.aternos.me",
     "port": 22468,
     "version": "1.21.1"
   },
