@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "malikmcfun.aternos.me:22468",
+    "port": 22468,
     "version": "1.21.1"
   },
   "position": {
